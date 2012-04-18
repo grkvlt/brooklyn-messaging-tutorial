@@ -14,4 +14,4 @@ _Andrew Kennedy <andrew.kennedy@cloudsoftcorp.com>; April 2012_
 
 ### Rabbit MQ entity development and usage
 
-Copyright 2012 Andrew Kennedy; [http://www.apache.org/licenses/LICENSE-2.0.html][Apache 2.0 Licensed]
+Copyright 2012 Andrew Kennedy; [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html]) Licensed
